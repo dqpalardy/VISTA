@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="VISTA overview" />
+              <option name="title_text" value="VISTA drag and drop with content" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1575,35 +1575,23 @@
         <slidelink slideid="_player.6ESJr7ko574" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ESJr7ko574.6qiJTG9omLO" displaytext="Introductory slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6mpgyhzdlNS" displaytext="Menu slide" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5YOqf83iP2T" displaytext="acronym intro" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5tXI1qY4VtR" displaytext="acronyms" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6MV7bGjJ9Bx" displaytext="Elevator speech" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6DORubw5YAp" displaytext="city image base layer" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6EPCqPF0e4x" displaytext="introducing Erica" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6ANS2Y8z3T0" displaytext="introducing Alex" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.5rWlAyXP48f" displaytext="Mad Libs" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.64hE4U2jalU" displaytext="LayerAskingQuestions" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.65eocd1z87a" displaytext="avatars" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.5pBiAK9NKzW" displaytext="black woman" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6UswMPCNyq2" displaytext="older woman" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.69ajwDE4ohj" displaytext="reflection question" expand="false" type="slide" />
+            <slidelink slideid="_player.6ESJr7ko574.6VnmE4O8Fca" displaytext="reflection question2" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6FNc5E4PXNm" displaytext="intro drag and drop" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5XAPRAgGbBz" displaytext="base layer" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5vhMTLmTM1Y" displaytext="end of CB and DS" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6Kb2W2lSOhK" displaytext="guy" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6OB0xo8jpBy" displaytext="pink glasses" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6h9V8YixpEX" displaytext="conclusionIntroductions" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.5iQ2TVFYAnq" displaytext="introduction to CB" expand="false" type="slide" />
+            <slidelink slideid="_player.6ESJr7ko574.5iQ2TVFYAnq" displaytext="overview-cbandds" expand="false" type="slide" />
+            <slidelink slideid="_player.6ESJr7ko574.63OTBuSQ8aJ" displaytext="introduction to CB" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6qoi07UG8Ak" displaytext="what is capacity building" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6OCyoOttzu2" displaytext="examples of CB" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5mcLuIREdwZ" displaytext="how CB can help an org" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6ai0y9yFtGl" displaytext="Direct Service" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.5k8JYzbXgOd" displaytext="No Direct Service" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.6Pzj5BoCPPG" displaytext="Exceptions1" expand="false" type="slide" />
+            <slidelink slideid="_player.6ESJr7ko574.6Pzj5BoCPPG" displaytext="layer understanding1" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6EGo7yYchaA" displaytext="summer assoc" expand="false" type="slide" />
             <slidelink slideid="_player.6ESJr7ko574.6GKVphPqI6l" displaytext="examples of direct service" expand="false" type="slide" />
-            <slidelink slideid="_player.6ESJr7ko574.5xDhCTSgv98" displaytext="Additional resources" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
